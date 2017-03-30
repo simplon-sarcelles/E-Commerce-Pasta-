@@ -1,0 +1,26 @@
+.produit{
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  background-color: blue;
+}
+
+.gall{
+  margin-top: 30px;
+}
+
+.titleGall{
+  margin-left: 5px;
+}
+
+.descGall{
+  height: 100%;
+  width: 100%;
+  opacity: 0.3;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: none;
+  align-items:center;
+  text-align: center;
+}
