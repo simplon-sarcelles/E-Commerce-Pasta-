@@ -1,0 +1,33 @@
+img{
+  height: 740px;
+}
+.GC{
+  /*border: 2px solid red;*/
+  height: 25vh;
+}
+.Expl{
+  /*border: 2px solid green;*/
+  height: 25vh;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #95a5a6;
+
+}
+.Ctc{
+  /*border: 2px solid green;*/
+  height: 25vh;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+input{
+  background-color: #27ae60;
+  height: 50px;
+  width: 100px;
+  color: #fff;
+  border: 1px solid #2ecc71;
+}
+
+#text{
+  display: none;
+}
+.vide{
+  height: 10vh;
+}
